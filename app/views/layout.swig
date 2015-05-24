@@ -11,5 +11,7 @@
 </head>
 <body>
   {% block content %}{% endblock %}
+
+  <script data-main="/js/config.js" src="/js/vendor/requirejs/require.js"></script>
 </body>
 </html>
